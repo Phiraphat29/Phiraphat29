@@ -57,3 +57,5 @@ I'm a third-year Digital Technology and Innovation student and a passionate deve
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cfdee7,25:92b4f4,50:5e7ce2,75:4472ca,100:0a369d&height=150&section=footer&text=Stay%20Awesome!&fontSize=30&fontAlignY=70&fontColor=ffffff&animation=twinkling" width="100%"/>
